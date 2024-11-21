@@ -1,10 +1,10 @@
 # Bank-Loan-Defaulter-Prediction
 
-## Project Files and Links
+## 🔗 Project Files and Links
 
-- [🔗 **App Link]**(#) - Interact with the model in real-time.  
-- [💻 **Notebook Link**](#) - Explore the project.
-- [💻 **App Script Link**](#) - Explore the project.
+- [💻 **App Link**](https://bank-loan-defaulter-prediction-arun.streamlit.app/) - Interact with the model in real-time.  
+- [💻 **Notebook Link**](https://github.com/arunkumarsp-ds/Bank-Loan-Default-Prediction-Using-Machine-Learning-and-Streamlit/blob/main/bank-loan-defaulter-prediction%20and%20eda.ipynb) - Explore the project.
+
 
 ## Introduction
 
