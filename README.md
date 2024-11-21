@@ -2,9 +2,9 @@
 
 ## Project Files and Links
 
-- [🔗 App Link](#) - Interact with the model in real-time.  
-- [💻 Notebook Link](#) - Explore the project.
-- [💻 App Script Link](#) - Explore the project.
+- [🔗 **App Link]**(#) - Interact with the model in real-time.  
+- [💻 **Notebook Link**](#) - Explore the project.
+- [💻 **App Script Link**](#) - Explore the project.
 
 ## Introduction
 
